@@ -1,0 +1,4 @@
+Link para download do Git para Windows: https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.exe
+Link de instruções para download do Git para Linux: https://git-scm.com/download/linux
+
+O Git Bash é um terminal extendido para otimizar a utilização do Git, possibilitando ao usuário controle e clareza de versionamentos de projetos.
